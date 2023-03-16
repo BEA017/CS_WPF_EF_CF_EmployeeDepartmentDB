@@ -1,0 +1,29 @@
+﻿<Window x:Class="WPF_EF_CF_EmployeeDepartmentDB.Models.Edit_Employee"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_EF_CF_EmployeeDepartmentDB.Models"
+        mc:Ignorable="d"
+        Title="Edit employee" Height="350" Width="295" ResizeMode="NoResize">
+    <Grid Height="340" VerticalAlignment="Top" Margin="0,0,10,0">
+
+        <Canvas   Margin="10,10,-15,10">
+            <TextBlock Text="First name:" Height="20" Width="auto" Margin="0,0,186,214"/>
+            <TextBlock Text="Last name:"  Height="20" Margin="0,40,185,174"/>
+            <TextBlock Text="Age:"  Height="20" Width="auto" Canvas.Top="80"/>
+            <TextBlock Text="Address:"  Height="20" Width="auto" Margin="0,120,185,94"/>
+
+            <TextBox x:Name="firstName_tb" Height="20" Canvas.Top="20" Width="250" />
+            <TextBox x:Name="lastName_tb"  Height="20" Canvas.Top="60" Width="250" />
+            <TextBox x:Name="age_tb" Height="20" Canvas.Top="100" Width="250" />
+            <TextBox x:Name="address_tb"  Height="20" Canvas.Top="140" Width="250" />
+            <TextBlock Text="Photo:"  Height="20" Width="auto" HorizontalAlignment="Left" Canvas.Top="202" VerticalAlignment="Center" Canvas.Left="1"/>
+            <TextBox x:Name="photo_tb" Height="20" Canvas.Top="222" Width="250" HorizontalAlignment="Center" VerticalAlignment="Top" />
+            <Button x:Name="btn_choisePhoto" Content="..." Canvas.Left="40" Canvas.Top="197" HorizontalAlignment="Left" VerticalAlignment="Top" Width="40" Click="btn_choisePhoto_Click"/>
+            <Button x:Name="btn_add" Content="Edit" HorizontalAlignment="Left" Height="22" VerticalAlignment="Top" Width="130" Click="btn_add_Click" Canvas.Left="120" Canvas.Top="258"/>
+            <Button Content="Delete" Canvas.Left="10" Canvas.Top="259" Background="Red" Click="DelBtn_Click"/>
+
+        </Canvas>
+    </Grid>
+</Window>

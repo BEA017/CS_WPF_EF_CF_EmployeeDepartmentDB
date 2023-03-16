@@ -1,0 +1,225 @@
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.exe
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.deps.json
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.runtimeconfig.json
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.dll
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.pdb
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.csproj.AssemblyReference.cache
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB_MarkupCompile.cache
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB_MarkupCompile.lref
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.g.resources
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.AssemblyInfoInputs.cache
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.AssemblyInfo.cs
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.csproj.CoreCompileInputs.cache
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.dll
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\refint\WPF_EF_CF_EmployeeDepartmentDB.dll
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.pdb
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.genruntimeconfig.cache
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\ref\WPF_EF_CF_EmployeeDepartmentDB.dll
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.csproj.CopyComplete
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.dll.config
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\Models\Add employee.g.cs
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\Models\Add employee.baml
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\Models\Add department.g.cs
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\Models\Add department.baml
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\Models\Add DE.g.cs
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\Models\Add DE.baml
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\Models\Edit Employee.g.cs
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\Models\Edit Employee.baml
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\Models\Edit DE.g.cs
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\Models\Edit Department.g.cs
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\Models\Edit DE.baml
+C:\Users\bodny\source\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\Models\Edit Department.baml
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.exe
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.dll.config
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.deps.json
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.runtimeconfig.json
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.dll
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.pdb
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Azure.Core.dll
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Azure.Identity.dll
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Humanizer.dll
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\System.Memory.Data.dll
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.csproj.AssemblyReference.cache
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\MainWindow.g.cs
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\Models\Add DE.g.cs
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\Models\Add department.g.cs
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\Models\Add employee.g.cs
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\Models\Edit DE.g.cs
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\Models\Edit Department.g.cs
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\Models\Edit Employee.g.cs
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\App.g.cs
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB_MarkupCompile.cache
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB_MarkupCompile.lref
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\MainWindow.baml
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\Models\Add DE.baml
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\Models\Add department.baml
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\Models\Add employee.baml
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\Models\Edit DE.baml
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\Models\Edit Department.baml
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\Models\Edit Employee.baml
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.g.resources
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.GeneratedMSBuildEditorConfig.editorconfig
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.AssemblyInfoInputs.cache
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.AssemblyInfo.cs
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.csproj.CoreCompileInputs.cache
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.csproj.CopyComplete
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.dll
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\refint\WPF_EF_CF_EmployeeDepartmentDB.dll
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.pdb
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.genruntimeconfig.cache
+E:\STEP\CS_WPF\repos\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\ref\WPF_EF_CF_EmployeeDepartmentDB.dll
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.exe
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.dll.config
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.deps.json
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.runtimeconfig.json
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.dll
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.pdb
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Azure.Core.dll
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Azure.Identity.dll
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Humanizer.dll
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\System.Memory.Data.dll
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.csproj.AssemblyReference.cache
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\MainWindow.g.cs
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\Models\Add DE.g.cs
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\Models\Add department.g.cs
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\Models\Add employee.g.cs
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\Models\Edit DE.g.cs
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\Models\Edit Department.g.cs
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\Models\Edit Employee.g.cs
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\App.g.cs
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB_MarkupCompile.cache
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB_MarkupCompile.lref
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\MainWindow.baml
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\Models\Add DE.baml
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\Models\Add department.baml
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\Models\Add employee.baml
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\Models\Edit DE.baml
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\Models\Edit Department.baml
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\Models\Edit Employee.baml
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.g.resources
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.GeneratedMSBuildEditorConfig.editorconfig
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.AssemblyInfoInputs.cache
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.AssemblyInfo.cs
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.csproj.CoreCompileInputs.cache
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.csproj.CopyComplete
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.dll
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\refint\WPF_EF_CF_EmployeeDepartmentDB.dll
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.pdb
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\WPF_EF_CF_EmployeeDepartmentDB.genruntimeconfig.cache
+E:\STEP\FR\WPF_EF_CF_EmployeeDepartmentDB\WPF_EF_CF_EmployeeDepartmentDB\obj\Debug\net7.0-windows\ref\WPF_EF_CF_EmployeeDepartmentDB.dll

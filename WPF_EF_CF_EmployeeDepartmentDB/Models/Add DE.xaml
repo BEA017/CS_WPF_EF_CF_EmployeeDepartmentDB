@@ -1,0 +1,21 @@
+﻿<Window x:Class="WPF_EF_CF_EmployeeDepartmentDB.Models.Add_DE"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_EF_CF_EmployeeDepartmentDB.Models"
+        mc:Ignorable="d"
+          Title="Add DE" Height="300" Width="300" ResizeMode="NoResize">
+    <Grid>
+        <Canvas Margin="10,33,10,0">
+            <TextBlock Text="EmployeeId:" Height="20" Width="auto" Margin="0,0,186,214"/>
+            <TextBlock Text="DepartmentId:"  Height="20" Width="auto" Margin="0,40,185,174"/>
+
+            <TextBox x:Name="emplId_tb" Height="20" Canvas.Top="20" Width="250" HorizontalAlignment="Left" Canvas.Left="10" VerticalAlignment="Center" />
+            <TextBox x:Name="deprtId_tb"  Height="20" Canvas.Top="60" Width="250" HorizontalAlignment="Center" Canvas.Left="10" VerticalAlignment="Center" />
+
+            <Button x:Name="btn_add" Content="Add" HorizontalAlignment="Left" Height="22" VerticalAlignment="Top" Width="130" Click="btn_add_Click" Canvas.Left="86" Canvas.Top="191"/>
+
+        </Canvas>
+    </Grid>
+</Window>

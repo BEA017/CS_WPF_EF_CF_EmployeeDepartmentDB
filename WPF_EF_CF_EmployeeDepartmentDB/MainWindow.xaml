@@ -1,0 +1,83 @@
+﻿<Window x:Class="WPF_EF_CF_EmployeeDepartmentDB.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_EF_CF_EmployeeDepartmentDB"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="1099">
+    <Grid Background="Gray">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="929*"></ColumnDefinition>
+            <ColumnDefinition Width="170*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <TabControl x:Name="tableTabControl" Grid.Column="0"  Margin="10,35,0,0">
+            <TabItem Header="Department">
+                <DataGrid  x:Name="dataGridDepartment" Margin="0,0,0,0"  CellEditEnding="dataGridDepartment_CellEditEnding" AutoGenerateColumns="False">
+
+
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="DepartmentId" Binding="{Binding Path=DepartmentId}" IsReadOnly="True" Width="Auto"/>
+                        <DataGridTextColumn Header="Title" Binding="{Binding Path=Title, UpdateSourceTrigger=PropertyChanged}" Width="auto"/>
+                        <DataGridTextColumn Header="HeadId" Binding="{Binding Path=HeadId, UpdateSourceTrigger=PropertyChanged}" Width="auto"/>
+                        <DataGridTextColumn Header="Address" Binding="{Binding Path=Address, UpdateSourceTrigger=PropertyChanged}" Width="auto"/>
+                        <DataGridTextColumn Header="Phone" Binding="{Binding Path=PhoneNumber, UpdateSourceTrigger=PropertyChanged}" Width="auto"/>
+
+                    </DataGrid.Columns>
+                </DataGrid>
+            </TabItem>
+            <TabItem Header="Employees">
+                <DataGrid  x:Name="dataGridEmployees" Margin="0,0,0,0"  CellEditEnding="dataGridEmployees_CellEditEnding" AutoGenerateColumns="False"  MouseDoubleClick="EmployeeItem_DoubleClick">
+
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="EmployeeId" Binding="{Binding Path=EmployeeId}" IsReadOnly="True" Width="Auto"/>
+                        <DataGridTextColumn Header="First name" Binding="{Binding Path=FirstName, UpdateSourceTrigger=PropertyChanged}"  Width="Auto"/>
+                        <DataGridTextColumn Header="Last name" Binding="{Binding Path=LastName, UpdateSourceTrigger=PropertyChanged}" Width="auto"/>
+                        <DataGridTextColumn Header="Age" Binding="{Binding Path=Age, UpdateSourceTrigger=PropertyChanged}" Width="auto"/>
+                        <DataGridTextColumn Header="Address" Binding="{Binding Path=Address, UpdateSourceTrigger=PropertyChanged}" Width="auto"/>
+                        <DataGridTextColumn Header="PhotoPath" Binding="{Binding Path=PhotoPath, UpdateSourceTrigger=PropertyChanged}" Width="auto"/>
+
+                    </DataGrid.Columns>
+                </DataGrid>
+            </TabItem>
+            <TabItem Header="Department-employees">
+                <DataGrid  x:Name="dataGridDepartmentEmployees" Margin="0,0,0,0" CellEditEnding="dataGridDE_CellEditEnding" AutoGenerateColumns="False" >
+
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="EmployeeId" Binding="{Binding Path=EmployeeId}" IsReadOnly="True" Width="auto"/>
+                        <DataGridTextColumn Header="DepartmentId" Binding="{Binding Path=DepartmentId, UpdateSourceTrigger=PropertyChanged}"  Width="Auto"/>
+
+                    </DataGrid.Columns>
+                </DataGrid>
+            </TabItem>
+           <!-- <TabItem Header="ConsolidateTable">
+                <DataGrid  x:Name="ConsolidateTableDG" Margin="0,0,0,0"    AutoGenerateColumns="false" >
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Emloyee id" Binding="{Binding Path=EmployeeId}" IsReadOnly="True" Width="Auto"/>
+                        <DataGridTextColumn Header="First name" Binding="{Binding Path=FirstName }"  Width="Auto"/>
+                        <DataGridTextColumn Header="Last name" Binding="{Binding Path=LastName }" Width="auto"/>
+                        <DataGridTextColumn Header="Title" Binding="{Binding Path=Title }" Width="auto"/>
+                        <DataGridTextColumn Header="Department id" Binding="{Binding Path=DepartmentId}" Width="auto"/>
+ 
+                    </DataGrid.Columns>
+                </DataGrid>
+            </TabItem>-->
+        </TabControl>
+
+        <Button Grid.Column="0" Content="Update departments" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="113" Click="ShowDepBtn_Click" Height="20" Background="LightCoral" BorderBrush="White"/>
+        <Button Grid.Column="0" Content="Update employees" HorizontalAlignment="Left" Margin="128,10,0,0" VerticalAlignment="Top" Width="105" Click="ShowEmpBtn_Click" Height="20" Background="LightCoral" BorderBrush="White"/>
+        <Button Content="Add department" HorizontalAlignment="Left" Margin="432,10,0,0" VerticalAlignment="Top" Width="94" Click="AddDepBtn_Click" Height="20" Background="LightCyan" BorderBrush="White"/>
+        <Button Grid.Column="0" Content="Add employee" HorizontalAlignment="Left" Margin="530,10,0,0" VerticalAlignment="Top" Width="85" Click="AddEmpBtn_Click" Height="20" Background="LightCyan" BorderBrush="White"/>
+        <Button Grid.Column="0" Content="Edit" HorizontalAlignment="Left" Margin="704,10,0,0" VerticalAlignment="Top" Width="57" Click="EditBtn_Click" Height="20" Background="LightGreen" BorderBrush="White"/>
+        <Button Grid.Column="0" Content="Update department-employee" HorizontalAlignment="Left" Margin="238,10,0,0" VerticalAlignment="Top" Click="ShowDE_Click" Height="20" Width="174" Background="LightCoral" BorderBrush="White"/>
+
+        <TextBox Grid.Column="1" x:Name="searchTb" HorizontalAlignment="Center" Margin="0,46,0,0" TextWrapping="Wrap"   VerticalAlignment="Top" Width="150" Height="21"/>
+        <Button Grid.Column="1" Content="Find" HorizontalAlignment="Left" Margin="119,72,0,0" VerticalAlignment="Top" Background="LightBlue" BorderBrush="LightBlue" Width="41" Click="FindBtn_Click"/>
+        <Image x:Name="ImageEmployee" Grid.Column="1"  HorizontalAlignment="Left" Panel.ZIndex="5" Height="180" Margin="17,137,0,0" VerticalAlignment="Top" Width="140"/>
+        <Button Content="Add DE" HorizontalAlignment="Left" Margin="620,10,0,0" VerticalAlignment="Top" Width="79" Background="LightCyan" BorderBrush="White" Click="AddDEBtn_Click"/>
+      <!--  <Button Grid.Column="1" Content="Consolidate table" HorizontalAlignment="Center" Margin="0,384,0,0" VerticalAlignment="Top" Click="ConsolidTableBtn_Click"/>
+-->
+
+    </Grid>
+</Window>

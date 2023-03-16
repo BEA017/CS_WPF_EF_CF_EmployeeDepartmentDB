@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Models\Add DE.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Models\Add department.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Models\Add employee.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Models\Edit DE.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Models\Edit Department.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Models\Edit Employee.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Models\Add DE.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Models\Add department.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Models\Add employee.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Models\Edit DE.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Models\Edit Department.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Models\Edit Employee.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,4 @@
+The project is created on entity framework technology - code first, to run the application you need to have MSSQL server on PC,
+ then replace in the file App.config this string:" connectionString="Data Source=PASTE_SERVER_NAME_HERE;Initial Catalog=EmployeeDepartment;Integrated Security=True;Encrypt=false""
+next need to open Tools->NuGet Package Manager-> Packege Manager Console, and write: update database. After this you can start application.
+Attention! To implement the image view, I used local storage, for the image display to work correctly, change the data in the database. The project is under development, some functions do not work yet

@@ -1,0 +1,26 @@
+﻿<Window x:Class="WPF_EF_CF_EmployeeDepartmentDB.Models.Add_department"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_EF_CF_EmployeeDepartmentDB.Models"
+        mc:Ignorable="d"
+        Title="Window Add Department" Height="300" Width="300" ResizeMode="NoResize">
+    <Grid>
+        <Canvas Margin="10,33,10,0">
+            <TextBlock Text="Title:" Height="20" Width="auto" Margin="0,0,186,214"/>
+            <TextBlock Text="HeadId:"  Height="20" Width="auto" Margin="0,40,185,174"/>
+            <TextBlock Text="Address:" Height="20" Width="auto" Margin="0,80,185,134"/>
+
+            <TextBox x:Name="title_tb" Height="20" Canvas.Top="20" Width="250" HorizontalAlignment="Left" Canvas.Left="10" VerticalAlignment="Center" />
+            <TextBox x:Name="headId_tb"  Height="20" Canvas.Top="60" Width="250" HorizontalAlignment="Center" Canvas.Left="10" VerticalAlignment="Center" />
+            <TextBox x:Name="address_tb" Height="20" Canvas.Top="100" Width="250" HorizontalAlignment="Left" Canvas.Left="10" VerticalAlignment="Center" />
+
+            <Button x:Name="btn_add" Content="Add" HorizontalAlignment="Left" Height="22" VerticalAlignment="Top" Width="130" Click="btn_add_Click" Canvas.Left="86" Canvas.Top="191"/>
+            <TextBlock Text="Phone:" Height="20" Width="auto" HorizontalAlignment="Left" Canvas.Top="125" VerticalAlignment="Top" Canvas.Left="1"/>
+            <TextBox x:Name="phone_tb" Height="20" Canvas.Top="145" Width="250" Canvas.Left="10" HorizontalAlignment="Center" VerticalAlignment="Top" />
+
+        </Canvas>
+    </Grid>
+</Window>
+
